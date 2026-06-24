@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <H2>Start ReactUi part with <hr>npm start</H2>
 <H2>Start ExpressAPI part with <hr>node app.js</H2>
 
@@ -47,3 +48,6 @@
 <hr>
 
 
+=======
+# Alpha-Based--Otp-Identification-System
+>>>>>>> a659c2cefce42d05c9a45eb9c893b2797a4883ed
